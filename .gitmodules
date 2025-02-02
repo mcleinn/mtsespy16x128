@@ -6,4 +6,4 @@
 	url = https://github.com/pybind/pybind11.git
 [submodule "libs/tuning-library"]
 	path = libs/tuning-library
-	url = https://github.com/surge-synthesizer/tuning-library.git
+	url = https://github.com/mcleinn/tuning-library_16x128.git
