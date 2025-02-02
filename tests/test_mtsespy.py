@@ -132,7 +132,7 @@ def test_master_exists_error():
 
 
 def test_set_note_tunings():
-    frequencies = list(range(128))
+    frequencies = list(range(2000))
     with mts.Master():
         mts.set_note_tunings(frequencies)
         with mts.Client() as c:
